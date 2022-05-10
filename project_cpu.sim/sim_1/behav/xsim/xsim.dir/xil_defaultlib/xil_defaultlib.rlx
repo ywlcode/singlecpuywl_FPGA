@@ -1,0 +1,27 @@
+0.6
+2019.2
+Dec  5 2019
+05:06:03
+D:/project/project_cpu/project_cpu.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/project/project_cpu/project_cpu.srcs/sim_1/new/cpu_tb.v,1651848070,verilog,,,,cpu_tb,,,,,,,,
+D:/project/project_cpu/project_cpu.srcs/sources_1/ip/data_ram/sim/data_ram.v,1646492744,verilog,,D:/project/project_cpu/project_cpu.srcs/sources_1/ip/ram_code/sim/ram_code.v,,data_ram,,,,,,,,
+D:/project/project_cpu/project_cpu.srcs/sources_1/ip/mult_gen_0/sim/mult_gen_0.vhd,1646492747,vhdl,,,,mult_gen_0,,,,,,,,
+D:/project/project_cpu/project_cpu.srcs/sources_1/ip/ram_code/sim/ram_code.v,1652184467,verilog,,D:/project/project_cpu/project_cpu.srcs/sources_1/new/ALU.v,,ram_code,,,,,,,,
+D:/project/project_cpu/project_cpu.srcs/sources_1/new/ALU.v,1651894591,verilog,,D:/project/project_cpu/project_cpu.srcs/sources_1/new/begin.v,,ALU,,,,,,,,
+D:/project/project_cpu/project_cpu.srcs/sources_1/new/begin.v,1651924089,verilog,,D:/project/project_cpu/project_cpu.srcs/sources_1/new/chchch.v,,begink,,,,,,,,
+D:/project/project_cpu/project_cpu.srcs/sources_1/new/chchch.v,1651671477,verilog,,D:/project/project_cpu/project_cpu.srcs/sources_1/new/clknew.v,,chchch,,,,,,,,
+D:/project/project_cpu/project_cpu.srcs/sources_1/new/clknew.v,1652187061,verilog,,D:/project/project_cpu/project_cpu.srcs/sources_1/new/control.v,,clknew,,,,,,,,
+D:/project/project_cpu/project_cpu.srcs/sources_1/new/control.v,1652173489,verilog,,D:/project/project_cpu/project_cpu.srcs/sources_1/new/cpu.v,,control,,,,,,,,
+D:/project/project_cpu/project_cpu.srcs/sources_1/new/cpu.v,1652187055,verilog,,D:/project/project_cpu/project_cpu.srcs/sources_1/new/dataram_do.v,,cpu,,,,,,,,
+D:/project/project_cpu/project_cpu.srcs/sources_1/new/dataram_do.v,1651852121,verilog,,D:/project/project_cpu/project_cpu.srcs/sources_1/new/datatwoten.v,,dataram_do,,,,,,,,
+D:/project/project_cpu/project_cpu.srcs/sources_1/new/datatwoten.v,1651893674,verilog,,D:/project/project_cpu/project_cpu.srcs/sources_1/new/jd.v,,datatwoten,,,,,,,,
+D:/project/project_cpu/project_cpu.srcs/sources_1/new/jd.v,1651852417,verilog,,D:/project/project_cpu/project_cpu.srcs/sources_1/new/jump.v,,jd,,,,,,,,
+D:/project/project_cpu/project_cpu.srcs/sources_1/new/jump.v,1651743580,verilog,,D:/project/project_cpu/project_cpu.srcs/sources_1/new/jumpaddr.v,,jump,,,,,,,,
+D:/project/project_cpu/project_cpu.srcs/sources_1/new/jumpaddr.v,1651678028,verilog,,D:/project/project_cpu/project_cpu.srcs/sources_1/new/kkk.v,,jumpaddr,,,,,,,,
+D:/project/project_cpu/project_cpu.srcs/sources_1/new/kkk.v,1651669278,verilog,,D:/project/project_cpu/project_cpu.srcs/sources_1/new/outt.v,,kkk,,,,,,,,
+D:/project/project_cpu/project_cpu.srcs/sources_1/new/outt.v,1651845093,verilog,,D:/project/project_cpu/project_cpu.srcs/sources_1/new/pc.v,,outt,,,,,,,,
+D:/project/project_cpu/project_cpu.srcs/sources_1/new/pc.v,1651895810,verilog,,D:/project/project_cpu/project_cpu.srcs/sources_1/new/pc_new_old.v,,pc,,,,,,,,
+D:/project/project_cpu/project_cpu.srcs/sources_1/new/pc_new_old.v,1651673315,verilog,,D:/project/project_cpu/project_cpu.srcs/sources_1/new/pcadd.v,,pc_new_old,,,,,,,,
+D:/project/project_cpu/project_cpu.srcs/sources_1/new/pcadd.v,1651895810,verilog,,D:/project/project_cpu/project_cpu.srcs/sources_1/new/regester_file.v,,pcadd,,,,,,,,
+D:/project/project_cpu/project_cpu.srcs/sources_1/new/regester_file.v,1651845714,verilog,,D:/project/project_cpu/project_cpu.srcs/sources_1/new/timep.v,,regester_file,,,,,,,,
+D:/project/project_cpu/project_cpu.srcs/sources_1/new/timep.v,1651848702,verilog,,D:/project/project_cpu/project_cpu.srcs/sim_1/new/cpu_tb.v,,timep,,,,,,,,

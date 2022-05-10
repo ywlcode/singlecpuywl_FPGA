@@ -1,0 +1,58 @@
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Sat Mar  5 23:05:24 2022
+| Host         : LAPTOP-LO6UQ92B running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'ram_code'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of ram_code from xilinx.com:ip:blk_mem_gen:8.3 (Rev. 3) to xilinx.com:ip:blk_mem_gen:8.4 (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Sat Mar  5 23:05:22 2022
+| Host         : LAPTOP-LO6UQ92B running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'mult_gen_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of mult_gen_0 (xilinx.com:ip:mult_gen:12.0) from (Rev. 11) to (Rev. 16)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Sat Mar  5 23:05:21 2022
+| Host         : LAPTOP-LO6UQ92B running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'data_ram'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of data_ram from xilinx.com:ip:blk_mem_gen:8.3 (Rev. 3) to xilinx.com:ip:blk_mem_gen:8.4 (Rev. 4)
+

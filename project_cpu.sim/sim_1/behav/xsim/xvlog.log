@@ -1,0 +1,42 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/project_cpu/project_cpu.srcs/sources_1/ip/data_ram/sim/data_ram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module data_ram
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/project_cpu/project_cpu.srcs/sources_1/ip/ram_code/sim/ram_code.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ram_code
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/project_cpu/project_cpu.srcs/sources_1/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/project_cpu/project_cpu.srcs/sources_1/new/begin.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module begink
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/project_cpu/project_cpu.srcs/sources_1/new/chchch.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module chchch
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/project_cpu/project_cpu.srcs/sources_1/new/clknew.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clknew
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/project_cpu/project_cpu.srcs/sources_1/new/control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module control
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/project_cpu/project_cpu.srcs/sources_1/new/cpu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/project_cpu/project_cpu.srcs/sources_1/new/dataram_do.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dataram_do
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/project_cpu/project_cpu.srcs/sources_1/new/datatwoten.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module datatwoten
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/project_cpu/project_cpu.srcs/sources_1/new/jd.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module jd
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/project_cpu/project_cpu.srcs/sources_1/new/jump.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module jump
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/project_cpu/project_cpu.srcs/sources_1/new/jumpaddr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module jumpaddr
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/project_cpu/project_cpu.srcs/sources_1/new/kkk.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module kkk
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/project_cpu/project_cpu.srcs/sources_1/new/outt.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module outt
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/project_cpu/project_cpu.srcs/sources_1/new/pc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pc
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/project_cpu/project_cpu.srcs/sources_1/new/pc_new_old.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pc_new_old
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/project_cpu/project_cpu.srcs/sources_1/new/pcadd.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pcadd
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/project_cpu/project_cpu.srcs/sources_1/new/regester_file.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module regester_file
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/project_cpu/project_cpu.srcs/sources_1/new/timep.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module timep
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/project_cpu/project_cpu.srcs/sim_1/new/cpu_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu_tb
