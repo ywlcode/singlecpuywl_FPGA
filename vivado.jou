@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Tue May 10 22:11:20 2022
+# Process ID: 15452
+# Current directory: D:/project/project_cpu
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14960 D:\project\project_cpu\project_cpu.xpr
+# Log file: D:/project/project_cpu/vivado.log
+# Journal file: D:/project/project_cpu\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/project/project_cpu/project_cpu.xpr
+update_compile_order -fileset sources_1
